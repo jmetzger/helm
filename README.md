@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.7: helm exercises upgrade and values change 
+
+
+
 ## Übung 1.6. helm exercises / mariadb 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/install/mariadb-cloudpirates.md#schritt-1-install-mariadb-von-cloudpirates
