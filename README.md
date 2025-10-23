@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.5. deployment example 
+
+https://github.com/jmetzger/training-kubernetes-einfuehrung/blob/main/kubectl-examples/03-nginx-deployment.md#example-deployment-nginx
+
 ## Übung 1.4. namespaces einrichten 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/kubectl/kubectl-einrichten.md#arbeitsbereich-konfigurieren
