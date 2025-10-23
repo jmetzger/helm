@@ -2,7 +2,9 @@
 
 ## Übung 1.16: Readiness - Check überprüft 
 
+```
 helm -n my-app-<namenskuerzel> template my-app-release | less  
+```
 
 ## Übung 1.15: Chart installieren 
 
