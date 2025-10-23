@@ -1,5 +1,10 @@
 # helm
 
+## Übung 1.14: Eigenes Chart rendern 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/04a-create-chart-my-app-gruppenarbeit.md#chart-testen
+
+
 ## Übung 1.13. cloudpirates chart holen 
 
 ```
