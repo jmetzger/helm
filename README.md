@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.6. helm exercises / mariadb 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/install/mariadb-cloudpirates.md#schritt-1-install-mariadb-von-cloudpirates
+
 ## Übung 1.5. deployment example 
 
 https://github.com/jmetzger/training-kubernetes-einfuehrung/blob/main/kubectl-examples/03-nginx-deployment.md#example-deployment-nginx
