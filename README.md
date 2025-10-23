@@ -9,6 +9,7 @@
 helm list
 helm get <tab><tab>
 helm get manifest my-mariadb
+helm get manifest my-mariadb | less 
 ```
 
 
