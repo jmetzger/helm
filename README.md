@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.18 Ganz einfach starten 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/09-create-helm-chart-from-scratch-deployment.md
+
 ## Übung 1.17 nginx nach draussen lauschen lassen 
 
 ```
