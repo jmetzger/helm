@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.12 Eigenes Helm-Chart erstellen 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/04a-create-chart-my-app-gruppenarbeit.md
+
 ## Übung 1.11 Umschauen get 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/install/mariadb-cloudpirates.md#umschauen-get
