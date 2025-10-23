@@ -2,6 +2,7 @@
 
 ## Übung 1.12 Eigenes Helm-Chart erstellen 
 
+* nur 1. Punkt Chart erstellen 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/04a-create-chart-my-app-gruppenarbeit.md
 
 ## Übung 1.11 Umschauen get 
