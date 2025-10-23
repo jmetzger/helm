@@ -1,5 +1,41 @@
 # helm
 
+## Übung nginx nach draussen lauschen lassen 
+
+```
+cd
+mkdir helm-values
+cd helm-values
+mkdir my-app
+cd my-app
+```
+
+```
+nano values.yaml
+```
+
+```
+service:
+  type: LoadBalancer
+```
+
+```
+cd
+cd my-charts
+helm -n my-app-jm upgrade --install my-app-release my-app --create-namespace --reset-values -f ../helm-values/my-app/values.yaml 
+
+```
+
+```
+kubectl -n my-app-<namenskuerzel> get all
+```
+
+```
+Im browser ip anzeigen
+```
+
+
+
 ## Übung 1.16: Readiness - Check überprüft 
 
 ```
