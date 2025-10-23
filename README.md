@@ -3,7 +3,7 @@
 ## Übung 1.2 ssh 
 
 tln1 - trainer 
-tln2 - 
+tln2 - Malvin 
 
 ## Übung 1.1 VPN 
 
