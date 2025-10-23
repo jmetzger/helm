@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.4. namespaces einrichten 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/kubectl/kubectl-einrichten.md#arbeitsbereich-konfigurieren
+
 ## Übung 1.3. kubectl einrichten
 
   * https://github.com/jmetzger/training-helm-cicd/blob/main/kubectl/kubectl-einrichten.md
