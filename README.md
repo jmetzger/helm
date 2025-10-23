@@ -1,5 +1,10 @@
 # helm
 
+## Übung 1.15: Chart installieren 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/04a-create-chart-my-app-gruppenarbeit.md#install-helm---chart
+
+
 ## Übung 1.14: Eigenes Chart rendern 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/04a-create-chart-my-app-gruppenarbeit.md#chart-testen
