@@ -1,6 +1,6 @@
 # helm
 
-## Übung nginx nach draussen lauschen lassen 
+## Übung 1.17 nginx nach draussen lauschen lassen 
 
 ```
 cd
