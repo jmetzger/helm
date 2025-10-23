@@ -1,5 +1,12 @@
 # helm
 
+## Übung 1.13. cloudpirates chart holen 
+
+```
+cd
+helm pull oci://registry-1.docker.io/cloudpirates/mariadb --untar
+```
+
 ## Übung 1.12 Eigenes Helm-Chart erstellen 
 
 * nur 1. Punkt Chart erstellen 
