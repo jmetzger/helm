@@ -1,6 +1,15 @@
 # helm
 
-## Übung 1.7: helm exercises upgrade and values change 
+## Übung 1.8: helm exercises upgrade and values change 
+
+
+## Übung 1.7 helm erkunden 
+
+```
+helm list
+helm get <tab><tab>
+helm get manifest my-mariadb
+```
 
 
 
