@@ -1,7 +1,10 @@
 # helm
 
-## Übung 1.8: helm exercises upgrade and values change 
+## Übung 1.9: helm exercises upgrade and values change 
 
+## Übung 1.8. Was kann ich konfigurieren (values) 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/install/mariadb-cloudpirates.md#schritt-21-default-values-auf-terminal-ausfindig-machen
 
 ## Übung 1.7 helm erkunden 
 
