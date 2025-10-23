@@ -2,6 +2,7 @@
 
 ## Übung 1.2 ssh 
 
+IP: 134.209.234.164
 tln1 - trainer 
 tln2 - Malvin 
 
