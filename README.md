@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.28 dict 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/11-named-template-with-dict.md
+
 ## Übung 1.27 range - exercise 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/templates/flow-control/03-range.md
