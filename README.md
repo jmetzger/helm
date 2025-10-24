@@ -1,5 +1,14 @@
 # helm
 
+## Übung 1.19 : name templates verwenden
+
+1) Wie sieht es aktuell im Namespace aus, wie heisst die pods
+
+2) Name-templates app.labels und app.name verwenden
+   && upgrade 
+
+3) Welche Pods sind jetzt da, sind die alten Weg. 
+
 ## Übung 1.18 Ganz einfach starten 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/exercises/09-create-helm-chart-from-scratch-deployment.md
