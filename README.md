@@ -3,6 +3,10 @@
 ## Übung 1.25 gitlab ci/cd 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/gitlab-ci-cd/example-helm-kubernetes.md
+Schritt 1: Repo importieren 
+
+
+
 
 ## Übung 1.24 in gitlab einloggen 
 
