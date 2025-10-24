@@ -1,5 +1,9 @@
 # helm
 
+## Übung 1.20 : Whitespace - Übung 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/templates/spaces.md
+
 ## Übung 1.19 : name templates verwenden
 
 1) Wie sieht es aktuell im Namespace aus, wie heisst die pods
