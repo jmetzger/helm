@@ -4,6 +4,7 @@
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/gitlab-ci-cd/example-helm-kubernetes.md
 Schritt 1: Repo importieren 
+-> Dieses Repo: https://gitlab.com/jmetzger/training-helm-chart-kubernetes-gitlab-ci-cd.git
 
 
 
