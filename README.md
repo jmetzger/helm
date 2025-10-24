@@ -1,5 +1,11 @@
 # helm
 
+## Übung 1.25 gitlab ci/cd 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/gitlab-ci-cd/example-helm-kubernetes.md
+
+## Übung 1.24 in gitlab einloggen 
+
 ## Übung 1.23 dependency with condition  - Exercise 2 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/dependencies/exercise.md#exercise-2-create-chart-with-condition
