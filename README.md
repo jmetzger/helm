@@ -1,13 +1,21 @@
 # helm
 
+## Übung 1.26 image ändern und kubectl einbauen 
+
+```
+alpine/k8s:1.31
+```
+
+
+
+
+
+
 ## Übung 1.25 gitlab ci/cd 
 
 https://github.com/jmetzger/training-helm-cicd/blob/main/helm/gitlab-ci-cd/example-helm-kubernetes.md
 Schritt 1: Repo importieren 
 -> Dieses Repo: https://gitlab.com/jmetzger/training-helm-chart-kubernetes-gitlab-ci-cd.git
-
-
-
 
 ## Übung 1.24 in gitlab einloggen 
 
