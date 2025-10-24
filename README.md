@@ -2,14 +2,7 @@
 
 ## Übung 1.22 dependency -Exercise 1 
 
-using redis - chart from bitnami version: 
-0.9.6
-oci://registry-1.docker.io/cloudpirates/redis
-
-Wir nehmen 0.9.x 
-
-
-
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/dependencies/exercise.md
 
 ## Übung 1.21 to yaml 
 
