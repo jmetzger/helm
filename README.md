@@ -1,15 +1,14 @@
 # helm
 
+## Übung 1.27 range - exercise 
+
+https://github.com/jmetzger/training-helm-cicd/blob/main/helm/templates/flow-control/03-range.md
+
 ## Übung 1.26 image ändern und kubectl einbauen 
 
 ```
 alpine/k8s:1.31
 ```
-
-
-
-
-
 
 ## Übung 1.25 gitlab ci/cd 
 
